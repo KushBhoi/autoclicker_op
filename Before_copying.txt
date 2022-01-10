@@ -1,0 +1,8 @@
+Before copying make sure to download the necessary libraries.
+
+1) Press Win + R
+2) Type cmd (in small)
+3) Write 
+pip3 install pynput
+
+Go back and then copy the code and ur done :D
